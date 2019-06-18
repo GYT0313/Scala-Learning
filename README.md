@@ -44,3 +44,11 @@ Scala入门
 
 样例类和模式匹配
 
++ 12-Use List
+
+使用列表
+
++ 13-Use other collection classes
+
+使用其他集合类
+
